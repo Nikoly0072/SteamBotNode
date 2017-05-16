@@ -21,8 +21,8 @@
         '76561198058074080'
     ],
     cleverbot: {
-        user: '',
-        key: ''
+        user: 'MEMC0hOIarXkQEZf',
+        key: '5XqHufXtg7SLY1zK9mRBMlTU47qpwn7K'
     },
     googleAPI: '',
     mainuser: '',
