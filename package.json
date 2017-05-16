@@ -2,7 +2,7 @@
   "name": "steam-node",
   "version": "0.0.0",
   "description": "SteamNode",
-  "main": "app.js",
+  "main": "server.js",
   "author": {
     "name": "Aleksander"
   },
