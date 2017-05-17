@@ -14,5 +14,8 @@
     "steamcommunity": "^3.30.7",
     "utf8": "^2.1.2",
     "winston": "^2.3.1"
+  },
+  "Script": {
+    "start": "node server"
   }
 }
