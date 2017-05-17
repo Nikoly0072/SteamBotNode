@@ -24,8 +24,6 @@
         user: 'MEMC0hOIarXkQEZf',
         key: '5XqHufXtg7SLY1zK9mRBMlTU47qpwn7K'
     },
-    googleAPI: '',
-    mainuser: '',
-    mainpass: ''
+    googleAPI: ''
 };
 module.exports = config;
