@@ -559,14 +559,3 @@ var initializeClient = (index) => {
 }
 //
 initializeClients(config.account);
-
-var main = new SteamUser();
-main.logOn({
-        accountName: config.mainuser,
-        password: config.mainpass
-    }
-);
-main.on('loggedOn', (details) => {
-    main.setPersona(SteamUser.EPersonaState.Online);
-    main.gamesPlayed([251870, 282800, 326480]);
-})
